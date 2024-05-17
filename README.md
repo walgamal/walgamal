@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my GitHub Profile
+
+- 👋 Hey, I'm Wasim (Wah-seem)!
+- 🔭 I’m currently working on Full Stack Web Application Development.
+- 🌱 I’m currently learning more about Software Architecture, Embedded Software, and Artificial Intelligence.
+- 📫 How to reach me: wasimalgamal@gmail.com or shoot me a message on [LinkedIn](https://www.linkedin.com/in/wasim-algamal/)!
 
 <!--
 **walgamal/walgamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
